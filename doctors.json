@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Dr. Asha Sharma",
+    "experience": 12,
+    "speciality": "Cardiology",
+    "address": "123 Heart Lane, Mumbai",
+    "photo": "https://example.com/photos/asha.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8777, 19.0760],
+      "googleMapsUrl": "https://maps.google.com/?q=19.0760,72.8777"
+    }
+  },
+  {
+    "name": "Dr. Rajiv Menon",
+    "experience": 8,
+    "speciality": "Dermatology",
+    "address": "456 Skin Ave, Delhi",
+    "photo": "https://example.com/photos/rajiv.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.1025, 28.7041],
+      "googleMapsUrl": "https://maps.google.com/?q=28.7041,77.1025"
+    }
+  },
+  {
+    "name": "Dr. Priya Singh",
+    "experience": 15,
+    "speciality": "Pediatrics",
+    "address": "789 Child St, Bengaluru",
+    "photo": "https://example.com/photos/priya.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.5946, 12.9716],
+      "googleMapsUrl": "https://maps.google.com/?q=12.9716,77.5946"
+    }
+  },
+  {
+    "name": "Dr. Amit Patel",
+    "experience": 10,
+    "speciality": "Orthopedics",
+    "address": "321 Bone Rd, Ahmedabad",
+    "photo": "https://example.com/photos/amit.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.5714, 23.0225],
+      "googleMapsUrl": "https://maps.google.com/?q=23.0225,72.5714"
+    }
+  },
+  {
+    "name": "Dr. Neha Verma",
+    "experience": 7,
+    "speciality": "Gynecology",
+    "address": "654 Women Blvd, Pune",
+    "photo": "https://example.com/photos/neha.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [73.8567, 18.5204],
+      "googleMapsUrl": "https://maps.google.com/?q=18.5204,73.8567"
+    }
+  },
+  {
+    "name": "Dr. Suresh Kumar",
+    "experience": 20,
+    "speciality": "Neurology",
+    "address": "987 Brain Cir, Chennai",
+    "photo": "https://example.com/photos/suresh.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.2707, 13.0827],
+      "googleMapsUrl": "https://maps.google.com/?q=13.0827,80.2707"
+    }
+  },
+  {
+    "name": "Dr. Kavita Joshi",
+    "experience": 9,
+    "speciality": "ENT",
+    "address": "159 Ear Nose Throat St, Jaipur",
+    "photo": "https://example.com/photos/kavita.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [75.7873, 26.9124],
+      "googleMapsUrl": "https://maps.google.com/?q=26.9124,75.7873"
+    }
+  },
+  {
+    "name": "Dr. Manoj Gupta",
+    "experience": 14,
+    "speciality": "Ophthalmology",
+    "address": "753 Eye Rd, Lucknow",
+    "photo": "https://example.com/photos/manoj.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.9462, 26.8467],
+      "googleMapsUrl": "https://maps.google.com/?q=26.8467,80.9462"
+    }
+  },
+  {
+    "name": "Dr. Ritu Agarwal",
+    "experience": 11,
+    "speciality": "Psychiatry",
+    "address": "852 Mind Ave, Hyderabad",
+    "photo": "https://example.com/photos/ritu.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [78.4867, 17.3850],
+      "googleMapsUrl": "https://maps.google.com/?q=17.3850,78.4867"
+    }
+  },
+  {
+    "name": "Dr. Arvind Nair",
+    "experience": 6,
+    "speciality": "Dentistry",
+    "address": "951 Tooth Blvd, Kochi",
+    "photo": "https://example.com/photos/arvind.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [76.2673, 9.9312],
+      "googleMapsUrl": "https://maps.google.com/?q=9.9312,76.2673"
+    }
+  },
+  {
+    "name": "Dr. Sneha Kapoor",
+    "experience": 13,
+    "speciality": "Oncology",
+    "address": "357 Cancer Rd, Chandigarh",
+    "photo": "https://example.com/photos/sneha.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [76.7794, 30.7333],
+      "googleMapsUrl": "https://maps.google.com/?q=30.7333,76.7794"
+    }
+  },
+  {
+    "name": "Dr. Vikram Rao",
+    "experience": 18,
+    "speciality": "Urology",
+    "address": "246 Kidney St, Bhopal",
+    "photo": "https://example.com/photos/vikram.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.4126, 23.2599],
+      "googleMapsUrl": "https://maps.google.com/?q=23.2599,77.4126"
+    }
+  },
+  {
+    "name": "Dr. Anjali Mehta",
+    "experience": 5,
+    "speciality": "Endocrinology",
+    "address": "135 Hormone Ave, Indore",
+    "photo": "https://example.com/photos/anjali.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [75.8577, 22.7196],
+      "googleMapsUrl": "https://maps.google.com/?q=22.7196,75.8577"
+    }
+  },
+  {
+    "name": "Dr. Deepak Sinha",
+    "experience": 16,
+    "speciality": "Gastroenterology",
+    "address": "864 Digestive Rd, Patna",
+    "photo": "https://example.com/photos/deepak.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [85.1376, 25.5941],
+      "googleMapsUrl": "https://maps.google.com/?q=25.5941,85.1376"
+    }
+  },
+  {
+    "name": "Dr. Meera Das",
+    "experience": 7,
+    "speciality": "Pulmonology",
+    "address": "753 Lung St, Bhubaneswar",
+    "photo": "https://example.com/photos/meera.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [85.8245, 20.2961],
+      "googleMapsUrl": "https://maps.google.com/?q=20.2961,85.8245"
+    }
+  },
+  {
+    "name": "Dr. Sanjay Reddy",
+    "experience": 10,
+    "speciality": "Nephrology",
+    "address": "159 Kidney Ave, Visakhapatnam",
+    "photo": "https://example.com/photos/sanjay.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [83.2185, 17.6868],
+      "googleMapsUrl": "https://maps.google.com/?q=17.6868,83.2185"
+    }
+  },
+  {
+    "name": "Dr. Pooja Bhatt",
+    "experience": 8,
+    "speciality": "Rheumatology",
+    "address": "357 Joint Rd, Kanpur",
+    "photo": "https://example.com/photos/pooja.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [80.3319, 26.4499],
+      "googleMapsUrl": "https://maps.google.com/?q=26.4499,80.3319"
+    }
+  },
+  {
+    "name": "Dr. Ajay Chawla",
+    "experience": 12,
+    "speciality": "Hematology",
+    "address": "951 Blood Cir, Nagpur",
+    "photo": "https://example.com/photos/ajay.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [79.0882, 21.1458],
+      "googleMapsUrl": "https://maps.google.com/?q=21.1458,79.0882"
+    }
+  },
+  {
+    "name": "Dr. Shalini Rao",
+    "experience": 9,
+    "speciality": "Allergy",
+    "address": "753 Allergy St, Vadodara",
+    "photo": "https://example.com/photos/shalini.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [73.1812, 22.3072],
+      "googleMapsUrl": "https://maps.google.com/?q=22.3072,73.1812"
+    }
+  },
+  {
+    "name": "Dr. Nitin Deshmukh",
+    "experience": 14,
+    "speciality": "General Medicine",
+    "address": "357 Main Rd, Nashik",
+    "photo": "https://example.com/photos/nitin.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [73.7898, 19.9975],
+      "googleMapsUrl": "https://maps.google.com/?q=19.9975,73.7898"
+    }
+  },
+  {
+    "name": "Dr. Rakesh Jain",
+    "experience": 11,
+    "speciality": "Plastic Surgery",
+    "address": "159 Beauty Ave, Faridabad",
+    "photo": "https://example.com/photos/rakesh.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.3090, 28.4089],
+      "googleMapsUrl": "https://maps.google.com/?q=28.4089,77.3090"
+    }
+  },
+  {
+    "name": "Dr. Sunita Mishra",
+    "experience": 13,
+    "speciality": "Ophthalmology",
+    "address": "951 Vision Rd, Meerut",
+    "photo": "https://example.com/photos/sunita.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.7064, 28.9845],
+      "googleMapsUrl": "https://maps.google.com/?q=28.9845,77.7064"
+    }
+  },
+  {
+    "name": "Dr. Prakash Singh",
+    "experience": 17,
+    "speciality": "Cardiology",
+    "address": "753 Heart St, Ranchi",
+    "photo": "https://example.com/photos/prakash.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [85.3096, 23.3441],
+      "googleMapsUrl": "https://maps.google.com/?q=23.3441,85.3096"
+    }
+  },
+  {
+    "name": "Dr. Vandana Iyer",
+    "experience": 8,
+    "speciality": "Gynecology",
+    "address": "357 Women Cir, Jodhpur",
+    "photo": "https://example.com/photos/vandana.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [73.0243, 26.2389],
+      "googleMapsUrl": "https://maps.google.com/?q=26.2389,73.0243"
+    }
+  },
+  {
+    "name": "Dr. Gaurav Bansal",
+    "experience": 10,
+    "speciality": "Orthopedics",
+    "address": "159 Bone Blvd, Raipur",
+    "photo": "https://example.com/photos/gaurav.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [81.6296, 21.2514],
+      "googleMapsUrl": "https://maps.google.com/?q=21.2514,81.6296"
+    }
+  },
+  {
+    "name": "Dr. Anuradha Kulkarni",
+    "experience": 6,
+    "speciality": "Pediatrics",
+    "address": "951 Child Rd, Amritsar",
+    "photo": "https://example.com/photos/anuradha.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [74.8723, 31.6340],
+      "googleMapsUrl": "https://maps.google.com/?q=31.6340,74.8723"
+    }
+  },
+  {
+    "name": "Dr. Harish Chandra",
+    "experience": 19,
+    "speciality": "Neurology",
+    "address": "753 Brain Cir, Varanasi",
+    "photo": "https://example.com/photos/harish.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [83.0076, 25.3176],
+      "googleMapsUrl": "https://maps.google.com/?q=25.3176,83.0076"
+    }
+  },
+  {
+    "name": "Dr. Swati Pandey",
+    "experience": 7,
+    "speciality": "Dermatology",
+    "address": "357 Skin Ave, Allahabad",
+    "photo": "https://example.com/photos/swati.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [81.8463, 25.4358],
+      "googleMapsUrl": "https://maps.google.com/?q=25.4358,81.8463"
+    }
+  },
+  {
+    "name": "Dr. Yogesh Tiwari",
+    "experience": 15,
+    "speciality": "General Medicine",
+    "address": "159 Main Rd, Gwalior",
+    "photo": "https://example.com/photos/yogesh.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [78.1689, 26.2183],
+      "googleMapsUrl": "https://maps.google.com/?q=26.2183,78.1689"
+    }
+  },
+  {
+    "name": "Dr. Ramesh Pawar",
+    "experience": 12,
+    "speciality": "Urology",
+    "address": "951 Kidney Cir, Aurangabad",
+    "photo": "https://example.com/photos/ramesh.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [75.3433, 19.8762],
+      "googleMapsUrl": "https://maps.google.com/?q=19.8762,75.3433"
+    }
+  }
+]
